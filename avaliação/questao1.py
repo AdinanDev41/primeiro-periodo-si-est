@@ -12,11 +12,41 @@ if (num1 == num2) or (num1 == num3) or (num2 == num3):
     print("Erro")
 
 else:
-    nums = [num1, num2, num3]  #num sei fazer sem lista :(
-    nums.sort()
-    print("Números em ordem crescente:", nums)
+    if (num1 > num2 > num3):   #quando o num1 for o maior, o num2 for o intermediario e o num3 for o menor
+        print(num3, num2, num1)
+
+    elif (num1 > num3 > num2):   #quando o num1 for o maior, o num3 for o intermediario e o num2 for o menor
+        print(num2, num3, num1)
+
+    elif (num2 > num1 > num3):  #quando o num2 for o maior, o num1 for o intermediario e o num3 for o menor
+        print(num3, num1, num2)
+
+    elif (num2 > num3 > num1):  #quando o num2 for o maior, o num3 for o intermediario e o num1 for o menor
+        print(num1, num3, num2)
+
+    elif (num3 > num2 > num1): #quando o num3 for o maior, o num2 for o intermediario e o num1 for o menor
+        print(num1, num2, num3)
+    
+    elif (num3 > num1 > num2):  #quando o num3 for o maior, o num1 for o intermediario e o num2 for o menor
+        print(num2, num1, num3)
+
     media = (num1 + num2 + num3) / 3
-    print("Média aritmética:", round(media, 2))
-    print("Diferença entre o maior e o menor:", nums[-1] - nums[0])
+    print("A media é:", round(media, 2))
 
+    if (num1 > num2 > num3):   #quando o num1 for o maior, o num2 for o intermediario e o num3 for o menor
+        print(num1 - num3)
 
+    elif (num1 > num3 > num2):   #quando o num1 for o maior, o num3 for o intermediario e o num2 for o menor
+        print(num1 - num2)
+
+    elif (num2 > num1 > num3):  #quando o num2 for o maior, o num1 for o intermediario e o num3 for o menor
+        print(num2 - num3)
+
+    elif (num2 > num3 > num1):  #quando o num2 for o maior, o num3 for o intermediario e o num1 for o menor
+        print(num2 - num1)
+
+    elif (num3 > num2 > num1): #quando o num3 for o maior, o num2 for o intermediario e o num1 for o menor
+        print(num3 - num1)
+    
+    elif (num3 > num1 > num2):  #quando o num3 for o maior, o num1 for o intermediario e o num2 for o menor
+        print(num3 - num2)
