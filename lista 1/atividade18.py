@@ -15,4 +15,8 @@ consumo_total = consumo_diario * 5
 
 resto = racao_grama - consumo_total
 
-print(f"")
+print(f"Após 5 dias, restarão {resto:.2f} gramas de ração no saco.")
+
+if resto < 0:
+    print("\nAtenção: A ração não será suficiente para 5 dias!")
+    print(f"Faltarão {-resto:.2f} gramas.")
