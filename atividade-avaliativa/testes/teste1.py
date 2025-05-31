@@ -21,6 +21,8 @@ with open('teste1.csv', 'w') as arquivo:
         linha_p_escrita = ','.join(notas)
         arquivo.write(linha_p_escrita + '\n')
 
+print(linha_p_escrita)
+
 
         
         

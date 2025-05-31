@@ -1,0 +1,394 @@
+Turma 001 - Introducao a Programacao de Computadores
+Alunos: 47
+Aprovados: 40.43%
+Média da turma: 4.74
+Acima da média: 21
+Maior: 8.34 | Menor: 1.05
+
+Turma 002 - Projeto e Analise de Algoritmos
+Alunos: 41
+Aprovados: 29.27%
+Média da turma: 4.87
+Acima da média: 20
+Maior: 7.76 | Menor: 1.35
+
+Turma 003 - Matematica Discreta
+Alunos: 53
+Aprovados: 60.38%
+Média da turma: 5.33
+Acima da média: 30
+Maior: 8.93 | Menor: 1.58
+
+Turma 004 - Sistemas Operacionais
+Alunos: 39
+Aprovados: 46.15%
+Média da turma: 4.94
+Acima da média: 20
+Maior: 7.75 | Menor: 1.19
+
+Turma 005 - Banco de Dados
+Alunos: 55
+Aprovados: 43.64%
+Média da turma: 4.94
+Acima da média: 25
+Maior: 8.21 | Menor: 1.66
+
+-- ESTATÍSTICAS GLOBAIS --
+Média global: 4.98
+Aprovação global: 44.68%
+Alunos com >2 disciplinas: 56
+Aprovados em todas: 9 (12.86%)
+Maior taxa de aprovação: Matematica Discreta (60.38%)
+Menor taxa de aprovação: Projeto e Analise de Algoritmos (29.27%)
+
+-- ESTATÍSTICAS POR ALUNO --
+Aluno 20240169
+Taxa de aprovação: 0.00%
+Melhor: Banco de Dados (4.63)
+Pior: Introducao a Programacao de Computadores (4.15)
+
+Aluno 20240158
+Taxa de aprovação: 66.67%
+Melhor: Matematica Discreta (6.93)
+Pior: Banco de Dados (3.65)
+
+Aluno 20240108
+Taxa de aprovação: 0.00%
+Melhor: Introducao a Programacao de Computadores (4.20)
+Pior: Sistemas Operacionais (3.06)
+
+Aluno 20240117
+Taxa de aprovação: 0.00%
+Melhor: Introducao a Programacao de Computadores (4.65)
+Pior: Matematica Discreta (3.64)
+
+Aluno 20240118
+Taxa de aprovação: 60.00%
+Melhor: Sistemas Operacionais (7.11)
+Pior: Matematica Discreta (1.84)
+
+Aluno 20240101
+Taxa de aprovação: 75.00%
+Melhor: Matematica Discreta (7.69)
+Pior: Introducao a Programacao de Computadores (1.84)
+
+Aluno 20240104
+Taxa de aprovação: 0.00%
+Melhor: Projeto e Analise de Algoritmos (5.39)
+Pior: Introducao a Programacao de Computadores (3.07)
+
+Aluno 20240151
+Taxa de aprovação: 60.00%
+Melhor: Matematica Discreta (7.14)
+Pior: Introducao a Programacao de Computadores (4.00)
+
+Aluno 20240112
+Taxa de aprovação: 0.00%
+Melhor: Sistemas Operacionais (4.71)
+Pior: Introducao a Programacao de Computadores (4.01)
+
+Aluno 20240134
+Taxa de aprovação: 66.67%
+Melhor: Matematica Discreta (6.53)
+Pior: Banco de Dados (2.68)
+
+Aluno 20240137
+Taxa de aprovação: 50.00%
+Melhor: Matematica Discreta (6.81)
+Pior: Introducao a Programacao de Computadores (2.00)
+
+Aluno 20240121
+Taxa de aprovação: 50.00%
+Melhor: Introducao a Programacao de Computadores (8.34)
+Pior: Projeto e Analise de Algoritmos (3.20)
+
+Aluno 20240103
+Taxa de aprovação: 66.67%
+Melhor: Projeto e Analise de Algoritmos (6.67)
+Pior: Banco de Dados (4.67)
+
+Aluno 20240124
+Taxa de aprovação: 100.00%
+Melhor: Matematica Discreta (8.93)
+Pior: Sistemas Operacionais (5.13)
+
+Aluno 20240133
+Taxa de aprovação: 50.00%
+Melhor: Introducao a Programacao de Computadores (7.69)
+Pior: Matematica Discreta (3.64)
+
+Aluno 20240109
+Taxa de aprovação: 33.33%
+Melhor: Introducao a Programacao de Computadores (5.78)
+Pior: Sistemas Operacionais (1.19)
+
+Aluno 20240164
+Taxa de aprovação: 75.00%
+Melhor: Introducao a Programacao de Computadores (7.81)
+Pior: Banco de Dados (2.92)
+
+Aluno 20240105
+Taxa de aprovação: 60.00%
+Melhor: Introducao a Programacao de Computadores (7.35)
+Pior: Sistemas Operacionais (3.27)
+
+Aluno 20240147
+Taxa de aprovação: 20.00%
+Melhor: Matematica Discreta (5.63)
+Pior: Banco de Dados (2.55)
+
+Aluno 20240125
+Taxa de aprovação: 50.00%
+Melhor: Banco de Dados (5.89)
+Pior: Introducao a Programacao de Computadores (3.66)
+
+Aluno 20240167
+Taxa de aprovação: 50.00%
+Melhor: Sistemas Operacionais (6.90)
+Pior: Introducao a Programacao de Computadores (4.12)
+
+Aluno 20240115
+Taxa de aprovação: 25.00%
+Melhor: Banco de Dados (5.73)
+Pior: Sistemas Operacionais (2.95)
+
+Aluno 20240110
+Taxa de aprovação: 100.00%
+Melhor: Matematica Discreta (7.86)
+Pior: Introducao a Programacao de Computadores (5.48)
+
+Aluno 20240128
+Taxa de aprovação: 40.00%
+Melhor: Matematica Discreta (8.47)
+Pior: Introducao a Programacao de Computadores (2.98)
+
+Aluno 20240119
+Taxa de aprovação: 33.33%
+Melhor: Sistemas Operacionais (6.96)
+Pior: Banco de Dados (3.38)
+
+Aluno 20240106
+Taxa de aprovação: 20.00%
+Melhor: Sistemas Operacionais (5.26)
+Pior: Matematica Discreta (2.88)
+
+Aluno 20240116
+Taxa de aprovação: 20.00%
+Melhor: Matematica Discreta (7.28)
+Pior: Introducao a Programacao de Computadores (1.05)
+
+Aluno 20240165
+Taxa de aprovação: 66.67%
+Melhor: Banco de Dados (6.94)
+Pior: Matematica Discreta (2.59)
+
+Aluno 20240144
+Taxa de aprovação: 75.00%
+Melhor: Banco de Dados (8.21)
+Pior: Sistemas Operacionais (4.35)
+
+Aluno 20240142
+Taxa de aprovação: 25.00%
+Melhor: Introducao a Programacao de Computadores (7.46)
+Pior: Matematica Discreta (1.71)
+
+Aluno 20240113
+Taxa de aprovação: 75.00%
+Melhor: Matematica Discreta (7.38)
+Pior: Introducao a Programacao de Computadores (4.70)
+
+Aluno 20240170
+Taxa de aprovação: 66.67%
+Melhor: Introducao a Programacao de Computadores (6.15)
+Pior: Projeto e Analise de Algoritmos (4.31)
+
+Aluno 20240166
+Taxa de aprovação: 25.00%
+Melhor: Matematica Discreta (5.92)
+Pior: Banco de Dados (1.66)
+
+Aluno 20240161
+Taxa de aprovação: 0.00%
+Melhor: Projeto e Analise de Algoritmos (4.06)
+Pior: Introducao a Programacao de Computadores (1.91)
+
+Aluno 20240127
+Taxa de aprovação: 25.00%
+Melhor: Sistemas Operacionais (6.50)
+Pior: Matematica Discreta (3.28)
+
+Aluno 20240156
+Taxa de aprovação: 60.00%
+Melhor: Projeto e Analise de Algoritmos (7.38)
+Pior: Introducao a Programacao de Computadores (2.44)
+
+Aluno 20240122
+Taxa de aprovação: 0.00%
+Melhor: Projeto e Analise de Algoritmos (4.67)
+Pior: Introducao a Programacao de Computadores (3.52)
+
+Aluno 20240114
+Taxa de aprovação: 0.00%
+Melhor: Banco de Dados (3.19)
+Pior: Introducao a Programacao de Computadores (2.49)
+
+Aluno 20240102
+Taxa de aprovação: 25.00%
+Melhor: Banco de Dados (5.07)
+Pior: Projeto e Analise de Algoritmos (2.19)
+
+Aluno 20240153
+Taxa de aprovação: 33.33%
+Melhor: Introducao a Programacao de Computadores (6.67)
+Pior: Matematica Discreta (3.50)
+
+Aluno 20240111
+Taxa de aprovação: 33.33%
+Melhor: Matematica Discreta (5.90)
+Pior: Projeto e Analise de Algoritmos (3.93)
+
+Aluno 20240162
+Taxa de aprovação: 33.33%
+Melhor: Matematica Discreta (6.05)
+Pior: Introducao a Programacao de Computadores (4.25)
+
+Aluno 20240143
+Taxa de aprovação: 50.00%
+Melhor: Projeto e Analise de Algoritmos (6.69)
+Pior: Matematica Discreta (2.30)
+
+Aluno 20240139
+Taxa de aprovação: 40.00%
+Melhor: Sistemas Operacionais (7.75)
+Pior: Projeto e Analise de Algoritmos (1.50)
+
+Aluno 20240135
+Taxa de aprovação: 25.00%
+Melhor: Introducao a Programacao de Computadores (5.66)
+Pior: Matematica Discreta (2.44)
+
+Aluno 20240148
+Taxa de aprovação: 0.00%
+Melhor: Banco de Dados (4.98)
+Pior: Introducao a Programacao de Computadores (3.08)
+
+Aluno 20240141
+Taxa de aprovação: 50.00%
+Melhor: Matematica Discreta (7.06)
+Pior: Introducao a Programacao de Computadores (4.91)
+
+Aluno 20240132
+Taxa de aprovação: 33.33%
+Melhor: Banco de Dados (7.39)
+Pior: Projeto e Analise de Algoritmos (1.35)
+
+Aluno 20240146
+Taxa de aprovação: 66.67%
+Melhor: Sistemas Operacionais (7.46)
+Pior: Banco de Dados (3.42)
+
+Aluno 20240159
+Taxa de aprovação: 66.67%
+Melhor: Matematica Discreta (7.78)
+Pior: Projeto e Analise de Algoritmos (4.50)
+
+Aluno 20240138
+Taxa de aprovação: 75.00%
+Melhor: Matematica Discreta (8.84)
+Pior: Sistemas Operacionais (4.97)
+
+Aluno 20240130
+Taxa de aprovação: 25.00%
+Melhor: Projeto e Analise de Algoritmos (6.07)
+Pior: Sistemas Operacionais (3.80)
+
+Aluno 20240129
+Taxa de aprovação: 0.00%
+Melhor: Projeto e Analise de Algoritmos (4.70)
+Pior: Banco de Dados (2.49)
+
+Aluno 20240145
+Taxa de aprovação: 50.00%
+Melhor: Matematica Discreta (8.48)
+Pior: Sistemas Operacionais (2.88)
+
+Aluno 20240131
+Taxa de aprovação: 100.00%
+Melhor: Projeto e Analise de Algoritmos (6.87)
+Pior: Matematica Discreta (5.18)
+
+Aluno 20240136
+Taxa de aprovação: 33.33%
+Melhor: Matematica Discreta (5.38)
+Pior: Banco de Dados (4.23)
+
+Aluno 20240126
+Taxa de aprovação: 0.00%
+Melhor: Projeto e Analise de Algoritmos (4.90)
+Pior: Matematica Discreta (3.08)
+
+Aluno 20240157
+Taxa de aprovação: 33.33%
+Melhor: Banco de Dados (7.13)
+Pior: Projeto e Analise de Algoritmos (2.24)
+
+Aluno 20240140
+Taxa de aprovação: 50.00%
+Melhor: Matematica Discreta (7.02)
+Pior: Banco de Dados (3.36)
+
+Aluno 20240149
+Taxa de aprovação: 100.00%
+Melhor: Sistemas Operacionais (7.57)
+Pior: Matematica Discreta (7.12)
+
+Aluno 20240160
+Taxa de aprovação: 100.00%
+Melhor: Matematica Discreta (6.06)
+Pior: Matematica Discreta (6.06)
+
+Aluno 20240152
+Taxa de aprovação: 66.67%
+Melhor: Banco de Dados (7.65)
+Pior: Sistemas Operacionais (4.54)
+
+Aluno 20240154
+Taxa de aprovação: 0.00%
+Melhor: Matematica Discreta (2.21)
+Pior: Matematica Discreta (2.21)
+
+Aluno 20240150
+Taxa de aprovação: 100.00%
+Melhor: Matematica Discreta (6.67)
+Pior: Banco de Dados (5.60)
+
+Aluno 20240168
+Taxa de aprovação: 33.33%
+Melhor: Matematica Discreta (7.93)
+Pior: Sistemas Operacionais (3.27)
+
+Aluno 20240163
+Taxa de aprovação: 100.00%
+Melhor: Banco de Dados (8.17)
+Pior: Matematica Discreta (7.50)
+
+Aluno 20240107
+Taxa de aprovação: 100.00%
+Melhor: Matematica Discreta (6.85)
+Pior: Banco de Dados (6.14)
+
+Aluno 20240155
+Taxa de aprovação: 50.00%
+Melhor: Sistemas Operacionais (5.17)
+Pior: Banco de Dados (4.75)
+
+Aluno 20240123
+Taxa de aprovação: 50.00%
+Melhor: Banco de Dados (6.70)
+Pior: Sistemas Operacionais (3.80)
+
+Aluno 20240120
+Taxa de aprovação: 100.00%
+Melhor: Banco de Dados (5.61)
+Pior: Banco de Dados (5.61)
+
