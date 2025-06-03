@@ -23,6 +23,8 @@ with open('teste1.csv', 'w') as arquivo:
 
 print(linha_p_escrita)
 
+lista = [1, 2, 3, None]
+
 
         
         
