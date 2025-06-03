@@ -1,394 +1,622 @@
-Turma 001 - Introducao a Programacao de Computadores
-Alunos: 47
-Aprovados: 40.43%
-Média da turma: 4.74
-Acima da média: 21
-Maior: 8.34 | Menor: 1.05
-
-Turma 002 - Projeto e Analise de Algoritmos
-Alunos: 41
-Aprovados: 29.27%
-Média da turma: 4.87
-Acima da média: 20
-Maior: 7.76 | Menor: 1.35
-
-Turma 003 - Matematica Discreta
-Alunos: 53
-Aprovados: 60.38%
-Média da turma: 5.33
-Acima da média: 30
-Maior: 8.93 | Menor: 1.58
-
-Turma 004 - Sistemas Operacionais
-Alunos: 39
-Aprovados: 46.15%
-Média da turma: 4.94
-Acima da média: 20
-Maior: 7.75 | Menor: 1.19
-
-Turma 005 - Banco de Dados
-Alunos: 55
-Aprovados: 43.64%
-Média da turma: 4.94
-Acima da média: 25
-Maior: 8.21 | Menor: 1.66
-
--- ESTATÍSTICAS GLOBAIS --
-Média global: 4.98
-Aprovação global: 44.68%
-Alunos com >2 disciplinas: 56
-Aprovados em todas: 9 (12.86%)
-Maior taxa de aprovação: Matematica Discreta (60.38%)
-Menor taxa de aprovação: Projeto e Analise de Algoritmos (29.27%)
-
--- ESTATÍSTICAS POR ALUNO --
-Aluno 20240169
-Taxa de aprovação: 0.00%
-Melhor: Banco de Dados (4.63)
-Pior: Introducao a Programacao de Computadores (4.15)
-
-Aluno 20240158
-Taxa de aprovação: 66.67%
-Melhor: Matematica Discreta (6.93)
-Pior: Banco de Dados (3.65)
-
-Aluno 20240108
-Taxa de aprovação: 0.00%
-Melhor: Introducao a Programacao de Computadores (4.20)
-Pior: Sistemas Operacionais (3.06)
-
-Aluno 20240117
-Taxa de aprovação: 0.00%
-Melhor: Introducao a Programacao de Computadores (4.65)
-Pior: Matematica Discreta (3.64)
-
-Aluno 20240118
-Taxa de aprovação: 60.00%
-Melhor: Sistemas Operacionais (7.11)
-Pior: Matematica Discreta (1.84)
-
-Aluno 20240101
-Taxa de aprovação: 75.00%
-Melhor: Matematica Discreta (7.69)
-Pior: Introducao a Programacao de Computadores (1.84)
-
-Aluno 20240104
-Taxa de aprovação: 0.00%
-Melhor: Projeto e Analise de Algoritmos (5.39)
-Pior: Introducao a Programacao de Computadores (3.07)
-
-Aluno 20240151
-Taxa de aprovação: 60.00%
-Melhor: Matematica Discreta (7.14)
-Pior: Introducao a Programacao de Computadores (4.00)
-
-Aluno 20240112
-Taxa de aprovação: 0.00%
-Melhor: Sistemas Operacionais (4.71)
-Pior: Introducao a Programacao de Computadores (4.01)
-
-Aluno 20240134
-Taxa de aprovação: 66.67%
-Melhor: Matematica Discreta (6.53)
-Pior: Banco de Dados (2.68)
-
-Aluno 20240137
-Taxa de aprovação: 50.00%
-Melhor: Matematica Discreta (6.81)
-Pior: Introducao a Programacao de Computadores (2.00)
-
-Aluno 20240121
-Taxa de aprovação: 50.00%
-Melhor: Introducao a Programacao de Computadores (8.34)
-Pior: Projeto e Analise de Algoritmos (3.20)
-
-Aluno 20240103
-Taxa de aprovação: 66.67%
-Melhor: Projeto e Analise de Algoritmos (6.67)
-Pior: Banco de Dados (4.67)
-
-Aluno 20240124
-Taxa de aprovação: 100.00%
-Melhor: Matematica Discreta (8.93)
-Pior: Sistemas Operacionais (5.13)
-
-Aluno 20240133
-Taxa de aprovação: 50.00%
-Melhor: Introducao a Programacao de Computadores (7.69)
-Pior: Matematica Discreta (3.64)
-
-Aluno 20240109
-Taxa de aprovação: 33.33%
-Melhor: Introducao a Programacao de Computadores (5.78)
-Pior: Sistemas Operacionais (1.19)
-
-Aluno 20240164
-Taxa de aprovação: 75.00%
-Melhor: Introducao a Programacao de Computadores (7.81)
-Pior: Banco de Dados (2.92)
-
-Aluno 20240105
-Taxa de aprovação: 60.00%
-Melhor: Introducao a Programacao de Computadores (7.35)
-Pior: Sistemas Operacionais (3.27)
-
-Aluno 20240147
-Taxa de aprovação: 20.00%
-Melhor: Matematica Discreta (5.63)
-Pior: Banco de Dados (2.55)
-
-Aluno 20240125
-Taxa de aprovação: 50.00%
-Melhor: Banco de Dados (5.89)
-Pior: Introducao a Programacao de Computadores (3.66)
-
-Aluno 20240167
-Taxa de aprovação: 50.00%
-Melhor: Sistemas Operacionais (6.90)
-Pior: Introducao a Programacao de Computadores (4.12)
-
-Aluno 20240115
-Taxa de aprovação: 25.00%
-Melhor: Banco de Dados (5.73)
-Pior: Sistemas Operacionais (2.95)
-
-Aluno 20240110
-Taxa de aprovação: 100.00%
-Melhor: Matematica Discreta (7.86)
-Pior: Introducao a Programacao de Computadores (5.48)
-
-Aluno 20240128
-Taxa de aprovação: 40.00%
-Melhor: Matematica Discreta (8.47)
-Pior: Introducao a Programacao de Computadores (2.98)
-
-Aluno 20240119
-Taxa de aprovação: 33.33%
-Melhor: Sistemas Operacionais (6.96)
-Pior: Banco de Dados (3.38)
-
-Aluno 20240106
-Taxa de aprovação: 20.00%
-Melhor: Sistemas Operacionais (5.26)
-Pior: Matematica Discreta (2.88)
-
-Aluno 20240116
-Taxa de aprovação: 20.00%
-Melhor: Matematica Discreta (7.28)
-Pior: Introducao a Programacao de Computadores (1.05)
-
-Aluno 20240165
-Taxa de aprovação: 66.67%
-Melhor: Banco de Dados (6.94)
-Pior: Matematica Discreta (2.59)
-
-Aluno 20240144
-Taxa de aprovação: 75.00%
-Melhor: Banco de Dados (8.21)
-Pior: Sistemas Operacionais (4.35)
-
-Aluno 20240142
-Taxa de aprovação: 25.00%
-Melhor: Introducao a Programacao de Computadores (7.46)
-Pior: Matematica Discreta (1.71)
-
-Aluno 20240113
-Taxa de aprovação: 75.00%
-Melhor: Matematica Discreta (7.38)
-Pior: Introducao a Programacao de Computadores (4.70)
-
-Aluno 20240170
-Taxa de aprovação: 66.67%
-Melhor: Introducao a Programacao de Computadores (6.15)
-Pior: Projeto e Analise de Algoritmos (4.31)
-
-Aluno 20240166
-Taxa de aprovação: 25.00%
-Melhor: Matematica Discreta (5.92)
-Pior: Banco de Dados (1.66)
-
-Aluno 20240161
-Taxa de aprovação: 0.00%
-Melhor: Projeto e Analise de Algoritmos (4.06)
-Pior: Introducao a Programacao de Computadores (1.91)
-
-Aluno 20240127
-Taxa de aprovação: 25.00%
-Melhor: Sistemas Operacionais (6.50)
-Pior: Matematica Discreta (3.28)
-
-Aluno 20240156
-Taxa de aprovação: 60.00%
-Melhor: Projeto e Analise de Algoritmos (7.38)
-Pior: Introducao a Programacao de Computadores (2.44)
-
-Aluno 20240122
-Taxa de aprovação: 0.00%
-Melhor: Projeto e Analise de Algoritmos (4.67)
-Pior: Introducao a Programacao de Computadores (3.52)
-
-Aluno 20240114
-Taxa de aprovação: 0.00%
-Melhor: Banco de Dados (3.19)
-Pior: Introducao a Programacao de Computadores (2.49)
-
-Aluno 20240102
-Taxa de aprovação: 25.00%
-Melhor: Banco de Dados (5.07)
-Pior: Projeto e Analise de Algoritmos (2.19)
-
-Aluno 20240153
-Taxa de aprovação: 33.33%
-Melhor: Introducao a Programacao de Computadores (6.67)
-Pior: Matematica Discreta (3.50)
-
-Aluno 20240111
-Taxa de aprovação: 33.33%
-Melhor: Matematica Discreta (5.90)
-Pior: Projeto e Analise de Algoritmos (3.93)
-
-Aluno 20240162
-Taxa de aprovação: 33.33%
-Melhor: Matematica Discreta (6.05)
-Pior: Introducao a Programacao de Computadores (4.25)
-
-Aluno 20240143
-Taxa de aprovação: 50.00%
-Melhor: Projeto e Analise de Algoritmos (6.69)
-Pior: Matematica Discreta (2.30)
-
-Aluno 20240139
-Taxa de aprovação: 40.00%
-Melhor: Sistemas Operacionais (7.75)
-Pior: Projeto e Analise de Algoritmos (1.50)
-
-Aluno 20240135
-Taxa de aprovação: 25.00%
-Melhor: Introducao a Programacao de Computadores (5.66)
-Pior: Matematica Discreta (2.44)
-
-Aluno 20240148
-Taxa de aprovação: 0.00%
-Melhor: Banco de Dados (4.98)
-Pior: Introducao a Programacao de Computadores (3.08)
-
-Aluno 20240141
-Taxa de aprovação: 50.00%
-Melhor: Matematica Discreta (7.06)
-Pior: Introducao a Programacao de Computadores (4.91)
-
-Aluno 20240132
-Taxa de aprovação: 33.33%
-Melhor: Banco de Dados (7.39)
-Pior: Projeto e Analise de Algoritmos (1.35)
-
-Aluno 20240146
-Taxa de aprovação: 66.67%
-Melhor: Sistemas Operacionais (7.46)
-Pior: Banco de Dados (3.42)
-
-Aluno 20240159
-Taxa de aprovação: 66.67%
-Melhor: Matematica Discreta (7.78)
-Pior: Projeto e Analise de Algoritmos (4.50)
-
-Aluno 20240138
-Taxa de aprovação: 75.00%
-Melhor: Matematica Discreta (8.84)
-Pior: Sistemas Operacionais (4.97)
-
-Aluno 20240130
-Taxa de aprovação: 25.00%
-Melhor: Projeto e Analise de Algoritmos (6.07)
-Pior: Sistemas Operacionais (3.80)
-
-Aluno 20240129
-Taxa de aprovação: 0.00%
-Melhor: Projeto e Analise de Algoritmos (4.70)
-Pior: Banco de Dados (2.49)
-
-Aluno 20240145
-Taxa de aprovação: 50.00%
-Melhor: Matematica Discreta (8.48)
-Pior: Sistemas Operacionais (2.88)
-
-Aluno 20240131
-Taxa de aprovação: 100.00%
-Melhor: Projeto e Analise de Algoritmos (6.87)
-Pior: Matematica Discreta (5.18)
-
-Aluno 20240136
-Taxa de aprovação: 33.33%
-Melhor: Matematica Discreta (5.38)
-Pior: Banco de Dados (4.23)
-
-Aluno 20240126
-Taxa de aprovação: 0.00%
-Melhor: Projeto e Analise de Algoritmos (4.90)
-Pior: Matematica Discreta (3.08)
-
-Aluno 20240157
-Taxa de aprovação: 33.33%
-Melhor: Banco de Dados (7.13)
-Pior: Projeto e Analise de Algoritmos (2.24)
-
-Aluno 20240140
-Taxa de aprovação: 50.00%
-Melhor: Matematica Discreta (7.02)
-Pior: Banco de Dados (3.36)
-
-Aluno 20240149
-Taxa de aprovação: 100.00%
-Melhor: Sistemas Operacionais (7.57)
-Pior: Matematica Discreta (7.12)
-
-Aluno 20240160
-Taxa de aprovação: 100.00%
-Melhor: Matematica Discreta (6.06)
-Pior: Matematica Discreta (6.06)
-
-Aluno 20240152
-Taxa de aprovação: 66.67%
-Melhor: Banco de Dados (7.65)
-Pior: Sistemas Operacionais (4.54)
-
-Aluno 20240154
-Taxa de aprovação: 0.00%
-Melhor: Matematica Discreta (2.21)
-Pior: Matematica Discreta (2.21)
-
-Aluno 20240150
-Taxa de aprovação: 100.00%
-Melhor: Matematica Discreta (6.67)
-Pior: Banco de Dados (5.60)
-
-Aluno 20240168
-Taxa de aprovação: 33.33%
-Melhor: Matematica Discreta (7.93)
-Pior: Sistemas Operacionais (3.27)
-
-Aluno 20240163
-Taxa de aprovação: 100.00%
-Melhor: Banco de Dados (8.17)
-Pior: Matematica Discreta (7.50)
-
-Aluno 20240107
-Taxa de aprovação: 100.00%
-Melhor: Matematica Discreta (6.85)
-Pior: Banco de Dados (6.14)
-
-Aluno 20240155
-Taxa de aprovação: 50.00%
-Melhor: Sistemas Operacionais (5.17)
-Pior: Banco de Dados (4.75)
-
-Aluno 20240123
-Taxa de aprovação: 50.00%
-Melhor: Banco de Dados (6.70)
-Pior: Sistemas Operacionais (3.80)
-
-Aluno 20240120
-Taxa de aprovação: 100.00%
-Melhor: Banco de Dados (5.61)
-Pior: Banco de Dados (5.61)
+Código da turma: 001, Disciplina: Introducao a Programacao de Computadores.
+Numero de alunos: 47, média da turma: 4.74
+Alunos aprovados: 19, Alunos Reprovados: 28. Percentual de alunos aprovados:40.4%
+21 Alunos estão acima da média da turma.
+Menor média: 1.05, Maior média: 8.34
+
+Código da turma: 002, Disciplina: Projeto e Analise de Algoritmos.
+Numero de alunos: 41, média da turma: 4.87
+Alunos aprovados: 12, Alunos Reprovados: 29. Percentual de alunos aprovados:29.3%
+20 Alunos estão acima da média da turma.
+Menor média: 1.35, Maior média: 7.76
+
+Código da turma: 003, Disciplina: Matematica Discreta.
+Numero de alunos: 53, média da turma: 5.33
+Alunos aprovados: 32, Alunos Reprovados: 21. Percentual de alunos aprovados:60.4%
+30 Alunos estão acima da média da turma.
+Menor média: 1.58, Maior média: 8.93
+
+Código da turma: 004, Disciplina: Sistemas Operacionais.
+Numero de alunos: 39, média da turma: 4.94
+Alunos aprovados: 18, Alunos Reprovados: 21. Percentual de alunos aprovados:46.2%
+20 Alunos estão acima da média da turma.
+Menor média: 1.19, Maior média: 7.75
+
+Código da turma: 005, Disciplina: Banco de Dados.
+Numero de alunos: 55, média da turma: 4.94
+Alunos aprovados: 24, Alunos Reprovados: 31. Percentual de alunos aprovados:43.6%
+25 Alunos estão acima da média da turma.
+Menor média: 1.66, Maior média: 8.21
+
+O total de alunos (por disciplina) do professor é: 235, o total de alunos (por matrícula) é: 70 
+A média global foi: 4.98
+A taxa de aprovação geral foi: 44.68%, com um total de 105 aprovações.
+67 alunos estão em 2+ turmas, 9 alunos passaram em todas disciplinas.
+Disciplina com maior taxa de aprovação: Matematica Discreta (003) (60.38%)
+Disciplina com menor taxa de aprovação: Projeto e Analise de Algoritmos (002) (29.27%)
+
+O aluno 20240169 está em 2 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.15, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.63, Status: Reprovado
+A menor média foi 4.15, em Introducao a Programacao de Computadores
+A maior média foi 4.63, em Banco de Dados
+O aluno tem 0% de aprovação geral
+
+O aluno 20240158 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 6.21, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 6.93, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.65, Status: Reprovado
+A menor média foi 3.65, em Banco de Dados
+A maior média foi 6.93, em Matematica Discreta
+O aluno tem 67% de aprovação geral
+
+O aluno 20240108 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.20, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.32, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 3.06, Status: Reprovado
+A menor média foi 3.06, em Sistemas Operacionais
+A maior média foi 4.20, em Introducao a Programacao de Computadores
+O aluno tem 0% de aprovação geral
+
+O aluno 20240117 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.65, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.93, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.64, Status: Reprovado
+A menor média foi 3.64, em Matematica Discreta
+A maior média foi 4.65, em Introducao a Programacao de Computadores
+O aluno tem 0% de aprovação geral
+
+O aluno 20240118 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 5.34, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 6.96, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 1.84, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 7.11, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.76, Status: Reprovado
+A menor média foi 1.84, em Matematica Discreta
+A maior média foi 7.11, em Sistemas Operacionais
+O aluno tem 60% de aprovação geral
+
+O aluno 20240101 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 1.84, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.69, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 7.47, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 5.16, Status: Aprovado
+A menor média foi 1.84, em Introducao a Programacao de Computadores
+A maior média foi 7.69, em Matematica Discreta
+O aluno tem 75% de aprovação geral
+
+O aluno 20240104 está em 2 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 3.07, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 5.39, Status: Reprovado
+A menor média foi 3.07, em Introducao a Programacao de Computadores
+A maior média foi 5.39, em Projeto e Analise de Algoritmos
+O aluno tem 0% de aprovação geral
+
+O aluno 20240151 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.00, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 5.64, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.14, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 5.82, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 5.07, Status: Aprovado
+A menor média foi 4.00, em Introducao a Programacao de Computadores
+A maior média foi 7.14, em Matematica Discreta
+O aluno tem 60% de aprovação geral
+
+O aluno 20240112 está em 2 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.01, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.71, Status: Reprovado
+A menor média foi 4.01, em Introducao a Programacao de Computadores
+A maior média foi 4.71, em Sistemas Operacionais
+O aluno tem 0% de aprovação geral
+
+O aluno 20240134 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 6.27, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 6.53, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 2.68, Status: Reprovado
+A menor média foi 2.68, em Banco de Dados
+A maior média foi 6.53, em Matematica Discreta
+O aluno tem 67% de aprovação geral
+
+O aluno 20240137 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 2.00, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 6.81, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 6.13, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.83, Status: Reprovado
+A menor média foi 2.00, em Introducao a Programacao de Computadores
+A maior média foi 6.81, em Matematica Discreta
+O aluno tem 50% de aprovação geral
+
+O aluno 20240121 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 8.34, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.20, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 5.14, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.45, Status: Reprovado
+A menor média foi 3.20, em Projeto e Analise de Algoritmos
+A maior média foi 8.34, em Introducao a Programacao de Computadores
+O aluno tem 50% de aprovação geral
+
+O aluno 20240103 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 5.66, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 6.67, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.67, Status: Reprovado
+A menor média foi 4.67, em Banco de Dados
+A maior média foi 6.67, em Projeto e Analise de Algoritmos
+O aluno tem 67% de aprovação geral
+
+O aluno 20240124 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 6.52, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 8.93, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 5.13, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 6.46, Status: Aprovado
+A menor média foi 5.13, em Sistemas Operacionais
+A maior média foi 8.93, em Matematica Discreta
+O aluno tem 100% de aprovação geral
+
+O aluno 20240133 está em 2 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 7.69, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.64, Status: Reprovado
+A menor média foi 3.64, em Matematica Discreta
+A maior média foi 7.69, em Introducao a Programacao de Computadores
+O aluno tem 50% de aprovação geral
+
+O aluno 20240109 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 5.78, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.20, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 1.19, Status: Reprovado
+A menor média foi 1.19, em Sistemas Operacionais
+A maior média foi 5.78, em Introducao a Programacao de Computadores
+O aluno tem 33% de aprovação geral
+
+O aluno 20240164 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 7.81, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 7.76, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 6.24, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 2.92, Status: Reprovado
+A menor média foi 2.92, em Banco de Dados
+A maior média foi 7.81, em Introducao a Programacao de Computadores
+O aluno tem 75% de aprovação geral
+
+O aluno 20240105 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 7.35, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 6.98, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 4.58, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 3.27, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 6.18, Status: Aprovado
+A menor média foi 3.27, em Sistemas Operacionais
+A maior média foi 7.35, em Introducao a Programacao de Computadores
+O aluno tem 60% de aprovação geral
+
+O aluno 20240147 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.70, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.45, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.63, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 3.21, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 2.55, Status: Reprovado
+A menor média foi 2.55, em Banco de Dados
+A maior média foi 5.63, em Matematica Discreta
+O aluno tem 20% de aprovação geral
+
+O aluno 20240125 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 3.66, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.99, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.07, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 5.89, Status: Aprovado
+A menor média foi 3.66, em Introducao a Programacao de Computadores
+A maior média foi 5.89, em Banco de Dados
+O aluno tem 50% de aprovação geral
+
+O aluno 20240167 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.12, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.74, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 6.90, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.63, Status: Reprovado
+A menor média foi 4.12, em Introducao a Programacao de Computadores
+A maior média foi 6.90, em Sistemas Operacionais
+O aluno tem 50% de aprovação geral
+
+O aluno 20240115 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.75, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 4.38, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 2.95, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 5.73, Status: Aprovado
+A menor média foi 2.95, em Sistemas Operacionais
+A maior média foi 5.73, em Banco de Dados
+O aluno tem 25% de aprovação geral
+
+O aluno 20240110 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 5.48, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.86, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 6.77, Status: Aprovado
+A menor média foi 5.48, em Introducao a Programacao de Computadores
+A maior média foi 7.86, em Matematica Discreta
+O aluno tem 100% de aprovação geral
+
+O aluno 20240128 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 2.98, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.13, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 8.47, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 3.59, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 8.12, Status: Aprovado
+A menor média foi 2.98, em Introducao a Programacao de Computadores
+A maior média foi 8.47, em Matematica Discreta
+O aluno tem 40% de aprovação geral
+
+O aluno 20240119 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.46, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 6.96, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.38, Status: Reprovado
+A menor média foi 3.38, em Banco de Dados
+A maior média foi 6.96, em Sistemas Operacionais
+O aluno tem 33% de aprovação geral
+
+O aluno 20240106 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 3.98, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.40, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 2.88, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 5.26, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.86, Status: Reprovado
+A menor média foi 2.88, em Matematica Discreta
+A maior média foi 5.26, em Sistemas Operacionais
+O aluno tem 20% de aprovação geral
+
+O aluno 20240116 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 1.05, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 5.49, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.28, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.97, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 1.74, Status: Reprovado
+A menor média foi 1.05, em Introducao a Programacao de Computadores
+A maior média foi 7.28, em Matematica Discreta
+O aluno tem 20% de aprovação geral
+
+O aluno 20240165 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 5.94, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 2.59, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 6.94, Status: Aprovado
+A menor média foi 2.59, em Matematica Discreta
+A maior média foi 6.94, em Banco de Dados
+O aluno tem 67% de aprovação geral
+
+O aluno 20240144 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 6.40, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 7.22, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.35, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 8.21, Status: Aprovado
+A menor média foi 4.35, em Sistemas Operacionais
+A maior média foi 8.21, em Banco de Dados
+O aluno tem 75% de aprovação geral
+
+O aluno 20240142 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 7.46, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 1.71, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.17, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.08, Status: Reprovado
+A menor média foi 1.71, em Matematica Discreta
+A maior média foi 7.46, em Introducao a Programacao de Computadores
+O aluno tem 25% de aprovação geral
+
+O aluno 20240113 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.70, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 6.90, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.38, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 6.42, Status: Aprovado
+A menor média foi 4.70, em Introducao a Programacao de Computadores
+A maior média foi 7.38, em Matematica Discreta
+O aluno tem 75% de aprovação geral
+
+O aluno 20240170 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 6.15, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.31, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 5.28, Status: Aprovado
+A menor média foi 4.31, em Projeto e Analise de Algoritmos
+A maior média foi 6.15, em Introducao a Programacao de Computadores
+O aluno tem 67% de aprovação geral
+
+O aluno 20240166 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 3.44, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 5.07, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.92, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 1.66, Status: Reprovado
+A menor média foi 1.66, em Banco de Dados
+A maior média foi 5.92, em Matematica Discreta
+O aluno tem 25% de aprovação geral
+
+O aluno 20240161 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 1.91, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.06, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.61, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 2.83, Status: Reprovado
+A menor média foi 1.91, em Introducao a Programacao de Computadores
+A maior média foi 4.06, em Projeto e Analise de Algoritmos
+O aluno tem 0% de aprovação geral
+
+O aluno 20240127 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.05, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 5.89, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.28, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 6.50, Status: Aprovado
+A menor média foi 3.28, em Matematica Discreta
+A maior média foi 6.50, em Sistemas Operacionais
+O aluno tem 25% de aprovação geral
+
+O aluno 20240156 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 2.44, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 7.38, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.44, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 6.06, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.09, Status: Reprovado
+A menor média foi 2.44, em Introducao a Programacao de Computadores
+A maior média foi 7.38, em Projeto e Analise de Algoritmos
+O aluno tem 60% de aprovação geral
+
+O aluno 20240122 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 3.52, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.67, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.15, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.15, Status: Reprovado
+A menor média foi 3.52, em Introducao a Programacao de Computadores
+A maior média foi 4.67, em Projeto e Analise de Algoritmos
+O aluno tem 0% de aprovação geral
+
+O aluno 20240114 está em 2 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 2.49, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.19, Status: Reprovado
+A menor média foi 2.49, em Introducao a Programacao de Computadores
+A maior média foi 3.19, em Banco de Dados
+O aluno tem 0% de aprovação geral
+
+O aluno 20240102 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.48, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 2.19, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.17, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 5.07, Status: Aprovado
+A menor média foi 2.19, em Projeto e Analise de Algoritmos
+A maior média foi 5.07, em Banco de Dados
+O aluno tem 25% de aprovação geral
+
+O aluno 20240153 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 6.67, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.29, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.50, Status: Reprovado
+A menor média foi 3.50, em Matematica Discreta
+A maior média foi 6.67, em Introducao a Programacao de Computadores
+O aluno tem 33% de aprovação geral
+
+O aluno 20240111 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.32, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.93, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.90, Status: Aprovado
+A menor média foi 3.93, em Projeto e Analise de Algoritmos
+A maior média foi 5.90, em Matematica Discreta
+O aluno tem 33% de aprovação geral
+
+O aluno 20240162 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.25, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 6.05, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.59, Status: Reprovado
+A menor média foi 4.25, em Introducao a Programacao de Computadores
+A maior média foi 6.05, em Matematica Discreta
+O aluno tem 33% de aprovação geral
+
+O aluno 20240143 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 6.02, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 6.69, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 2.30, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.65, Status: Reprovado
+A menor média foi 2.30, em Matematica Discreta
+A maior média foi 6.69, em Projeto e Analise de Algoritmos
+O aluno tem 50% de aprovação geral
+
+O aluno 20240139 está em 5 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 5.01, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 1.50, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 1.58, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 7.75, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.31, Status: Reprovado
+A menor média foi 1.50, em Projeto e Analise de Algoritmos
+A maior média foi 7.75, em Sistemas Operacionais
+O aluno tem 40% de aprovação geral
+
+O aluno 20240135 está em 4 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 5.66, Status: Aprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.14, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 2.44, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.84, Status: Reprovado
+A menor média foi 2.44, em Matematica Discreta
+A maior média foi 5.66, em Introducao a Programacao de Computadores
+O aluno tem 25% de aprovação geral
+
+O aluno 20240148 está em 3 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 3.08, Status: Reprovado
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.13, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.98, Status: Reprovado
+A menor média foi 3.08, em Introducao a Programacao de Computadores
+A maior média foi 4.98, em Banco de Dados
+O aluno tem 0% de aprovação geral
+
+O aluno 20240141 está em 2 turma(s):
+Turma: 001, Disciplina: Introducao a Programacao de Computadores, Média: 4.91, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.06, Status: Aprovado
+A menor média foi 4.91, em Introducao a Programacao de Computadores
+A maior média foi 7.06, em Matematica Discreta
+O aluno tem 50% de aprovação geral
+
+O aluno 20240132 está em 3 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 1.35, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.57, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 7.39, Status: Aprovado
+A menor média foi 1.35, em Projeto e Analise de Algoritmos
+A maior média foi 7.39, em Banco de Dados
+O aluno tem 33% de aprovação geral
+
+O aluno 20240146 está em 3 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 6.89, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 7.46, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.42, Status: Reprovado
+A menor média foi 3.42, em Banco de Dados
+A maior média foi 7.46, em Sistemas Operacionais
+O aluno tem 67% de aprovação geral
+
+O aluno 20240159 está em 3 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.50, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.78, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 6.66, Status: Aprovado
+A menor média foi 4.50, em Projeto e Analise de Algoritmos
+A maior média foi 7.78, em Matematica Discreta
+O aluno tem 67% de aprovação geral
+
+O aluno 20240138 está em 4 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 7.71, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 8.84, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.97, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 7.47, Status: Aprovado
+A menor média foi 4.97, em Sistemas Operacionais
+A maior média foi 8.84, em Matematica Discreta
+O aluno tem 75% de aprovação geral
+
+O aluno 20240130 está em 4 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 6.07, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.88, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 3.80, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.39, Status: Reprovado
+A menor média foi 3.80, em Sistemas Operacionais
+A maior média foi 6.07, em Projeto e Analise de Algoritmos
+O aluno tem 25% de aprovação geral
+
+O aluno 20240129 está em 4 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.70, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 2.73, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 3.09, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 2.49, Status: Reprovado
+A menor média foi 2.49, em Banco de Dados
+A maior média foi 4.70, em Projeto e Analise de Algoritmos
+O aluno tem 0% de aprovação geral
+
+O aluno 20240145 está em 4 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.83, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 8.48, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 2.88, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 5.47, Status: Aprovado
+A menor média foi 2.88, em Sistemas Operacionais
+A maior média foi 8.48, em Matematica Discreta
+O aluno tem 50% de aprovação geral
+
+O aluno 20240131 está em 3 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 6.87, Status: Aprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.18, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 6.46, Status: Aprovado
+A menor média foi 5.18, em Matematica Discreta
+A maior média foi 6.87, em Projeto e Analise de Algoritmos
+O aluno tem 100% de aprovação geral
+
+O aluno 20240136 está em 3 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 5.16, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.38, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.23, Status: Reprovado
+A menor média foi 4.23, em Banco de Dados
+A maior média foi 5.38, em Matematica Discreta
+O aluno tem 33% de aprovação geral
+
+O aluno 20240126 está em 4 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 4.90, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.08, Status: Reprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.61, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.83, Status: Reprovado
+A menor média foi 3.08, em Matematica Discreta
+A maior média foi 4.90, em Projeto e Analise de Algoritmos
+O aluno tem 0% de aprovação geral
+
+O aluno 20240157 está em 3 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 2.24, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 3.29, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 7.13, Status: Aprovado
+A menor média foi 2.24, em Projeto e Analise de Algoritmos
+A maior média foi 7.13, em Banco de Dados
+O aluno tem 33% de aprovação geral
+
+O aluno 20240140 está em 4 turma(s):
+Turma: 002, Disciplina: Projeto e Analise de Algoritmos, Média: 3.95, Status: Reprovado
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.02, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 5.05, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.36, Status: Reprovado
+A menor média foi 3.36, em Banco de Dados
+A maior média foi 7.02, em Matematica Discreta
+O aluno tem 50% de aprovação geral
+
+O aluno 20240149 está em 3 turma(s):
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.12, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 7.57, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 7.13, Status: Aprovado
+A menor média foi 7.12, em Matematica Discreta
+A maior média foi 7.57, em Sistemas Operacionais
+O aluno tem 100% de aprovação geral
+
+O aluno 20240160 está em 1 turma(s):
+Turma: 003, Disciplina: Matematica Discreta, Média: 6.06, Status: Aprovado
+A menor média foi 6.06, em Matematica Discreta
+A maior média foi 6.06, em Matematica Discreta
+O aluno tem 100% de aprovação geral
+
+O aluno 20240152 está em 3 turma(s):
+Turma: 003, Disciplina: Matematica Discreta, Média: 5.43, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 4.54, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 7.65, Status: Aprovado
+A menor média foi 4.54, em Sistemas Operacionais
+A maior média foi 7.65, em Banco de Dados
+O aluno tem 67% de aprovação geral
+
+O aluno 20240154 está em 1 turma(s):
+Turma: 003, Disciplina: Matematica Discreta, Média: 2.21, Status: Reprovado
+A menor média foi 2.21, em Matematica Discreta
+A maior média foi 2.21, em Matematica Discreta
+O aluno tem 0% de aprovação geral
+
+O aluno 20240150 está em 2 turma(s):
+Turma: 003, Disciplina: Matematica Discreta, Média: 6.67, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 5.60, Status: Aprovado
+A menor média foi 5.60, em Banco de Dados
+A maior média foi 6.67, em Matematica Discreta
+O aluno tem 100% de aprovação geral
+
+O aluno 20240168 está em 3 turma(s):
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.93, Status: Aprovado
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 3.27, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 3.51, Status: Reprovado
+A menor média foi 3.27, em Sistemas Operacionais
+A maior média foi 7.93, em Matematica Discreta
+O aluno tem 33% de aprovação geral
+
+O aluno 20240163 está em 2 turma(s):
+Turma: 003, Disciplina: Matematica Discreta, Média: 7.50, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 8.17, Status: Aprovado
+A menor média foi 7.50, em Matematica Discreta
+A maior média foi 8.17, em Banco de Dados
+O aluno tem 100% de aprovação geral
+
+O aluno 20240107 está em 2 turma(s):
+Turma: 003, Disciplina: Matematica Discreta, Média: 6.85, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 6.14, Status: Aprovado
+A menor média foi 6.14, em Banco de Dados
+A maior média foi 6.85, em Matematica Discreta
+O aluno tem 100% de aprovação geral
+
+O aluno 20240155 está em 2 turma(s):
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 5.17, Status: Aprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 4.75, Status: Reprovado
+A menor média foi 4.75, em Banco de Dados
+A maior média foi 5.17, em Sistemas Operacionais
+O aluno tem 50% de aprovação geral
+
+O aluno 20240123 está em 2 turma(s):
+Turma: 004, Disciplina: Sistemas Operacionais, Média: 3.80, Status: Reprovado
+Turma: 005, Disciplina: Banco de Dados, Média: 6.70, Status: Aprovado
+A menor média foi 3.80, em Sistemas Operacionais
+A maior média foi 6.70, em Banco de Dados
+O aluno tem 50% de aprovação geral
+
+O aluno 20240120 está em 1 turma(s):
+Turma: 005, Disciplina: Banco de Dados, Média: 5.61, Status: Aprovado
+A menor média foi 5.61, em Banco de Dados
+A maior média foi 5.61, em Banco de Dados
+O aluno tem 100% de aprovação geral
 
