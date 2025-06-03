@@ -1,5 +1,5 @@
-import sys
-import os
+import sys   # acessa variaveis e funções especificas do sistema, no nosso caso argumentos
+import os    # manipula arquivos
 
 # Pega o caminho da pasta informado pelo terminal
 caminho_pasta = sys.argv[1]     # armazena  caminho da pasta onde estão os arquivos
