@@ -53,9 +53,9 @@ for arq in arquivos:
         medias.append(media)
         if status:
             aprovados += 1
-        notas_aluno.append((mat, media))   #append adiciona
+        notas_aluno.append((mat, media))   # append adiciona
 
-    media_turma = sum(medias) / qtd_alunos    #sum soma todos os elementos da lista
+    media_turma = sum(medias) / qtd_alunos    # sum soma todos os elementos da lista
     acima_media = sum(1 for m in medias if m > media_turma)
     menor = min(medias)
     maior = max(medias)
@@ -98,7 +98,7 @@ saida.write(f"Disciplina com maior taxa de aprovação: {mais_aprov} ({disciplin
 saida.write(f"Disciplina com menor taxa de aprovação: {menos_aprov} ({disciplinas_taxa[menos_aprov]:.2f}%)\n\n")
 
 # Estatísticas por aluno
-for mat, dados in alunos_info.items():   #vai pegar todos os pares de chaves-valor e tirar a estatistica 
+for mat, dados in alunos_info.items():   # vai pegar todos os pares de chaves-valor e tirar a estatistica 
     saida.write(f"O aluno {mat} está em {len(dados)} turma(s):\n")
     for info in dados:
         m, st, d, c = info
